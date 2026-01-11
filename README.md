@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @parvej3929
-- 👀 I’m a data science enthusiast. 
-- 🌱 I’m currently learning various machine learning and deep learning techniques.
+-CS student learning JavaScript, PHP, and WordPress.
+-Interested in backend development and open-source contributions.
 - 📫 How to reach me : 9650814533
 
 <!---
